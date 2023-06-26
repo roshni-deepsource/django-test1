@@ -8,3 +8,6 @@ name = "java"
 
 [[analyzers]]
 name = "cxx"
+
+[[transformers]]
+name = "google-java-format"
